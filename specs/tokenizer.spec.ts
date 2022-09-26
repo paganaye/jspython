@@ -1,4 +1,4 @@
-import { Tokenizer } from "../src/parser/tokenizer";
+import { Tokenizer } from "../src/parser/Tokenizer";
 import { Token, TokenType } from '../src/parser/Tokens';
 
 type DynamicTitleTest = [string, () => void];
